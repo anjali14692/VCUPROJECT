@@ -1,0 +1,13 @@
+Register
+
+Admin
+User
+Doctor
+Hospital(Receptionist)
+Hospital Login
+Police Station
+Police login
+Accident info
+Qualification_Details
+Appointment
+Rewards
